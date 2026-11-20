@@ -28,7 +28,7 @@ Tabel 2. Hasil afinitas molecular docking kontrol P54 – HSP90AA1
 
 Berdasarkan Tabel 1, konformasi terbaik (Model 1) dari Polyphyllin I menghasilkan nilai _Calculated Affinity_ sebesar -9.181 kcal/mol, sedangkan pada Tabel 2, ligan kontrol bawaan P54 menghasilkan nilai afinitas terbaik sebesar -8.750 kcal/mol. Nilai energi bebas ikatan Polyphyllin I yang jauh lebih negatif dibandingkan ligan kontrol bawaannya mengindikasikan bahwa Polyphyllin I memiliki afinitas pengikatan yang lebih kuat dan mampu membentuk kompleks yang lebih stabil di dalam situs aktif HSP90AA
 
-![](images/image-004.png)
+![](images/ppi2D.png)
 
 Gambar 2. Visualisasi 3D pose konformasi terbaik Polyphyllin I (Model 1) di dalam kantung aktif protein HSP90AA1 menggunakan UCSF ChimeraX.
 
