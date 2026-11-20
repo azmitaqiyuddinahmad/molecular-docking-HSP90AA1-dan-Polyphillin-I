@@ -14,7 +14,7 @@ Langkah awal yang dilakukan adalah studi literatur terkait mekanisme inhibisi HS
 
 Simulasi _molecular docking_ dijalankan menggunakan AutoDock Vina. Penentuan koordinat pusat ruang pencarian (_Search Space_ / _Grid Box_) didasarkan pada hasil prediksi kantung pengikatan terbaik (_Rank_ 1) dari platform PrankWeb (**Gambar 1**), yaitu pada koordinat (-3.3930, -10.0745, -26.0613) dengan _Pocket Score_ sebesar 55.56 dan probabilitas 0.983 yang mencakup 42 residu asam amino utama.
 
-![C:\\Users\\User\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-11-15 160045.png](images/image-001.png)
+![](prankweb.png)
 
 Gambar 1. Pencarian koordinat _center box_ dan kantung aktif terbaik pada reseptor HSP90AA1 (PDB ID: 3O0I) melalui PrankWeb
 
