@@ -32,7 +32,7 @@ Berdasarkan Tabel 1, konformasi terbaik (Model 1) dari Polyphyllin I menghasilka
 
 Gambar 2. Visualisasi 3D pose konformasi terbaik Polyphyllin I (Model 1) di dalam kantung aktif protein HSP90AA1 menggunakan UCSF ChimeraX.
 
-![ppi2d](ppi2D.png/*ppi2D.png*)
+![ppi2d](ppi yeay2.png/*ppi yeay2.png*)
 
 Gambar 3. Diagram interaksi 2D antara ligan Polyphyllin I dengan residu asam amino pada situs aktif HSP90AA1 menggunakan BIOVIA Discovery Studio Visualizer.
 
