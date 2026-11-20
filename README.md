@@ -20,19 +20,22 @@ Gambar 1. Pencarian koordinat _center box_ dan kantung aktif terbaik pada resept
 
 Simulasi ini menghasilkan 20 model konformasi untuk masing-masing ligan. Untuk mengevaluasi kekuatan pengikatan Polyphyllin I, redocking dilakukan terhadap ligan kontrol bawaan P54 pada _grid box_ yang sama sebagai pembanding.
 
-![](images/image-002.png)Tabel 1. Hasil afinitas _molecular docking_ Polyphyllin I (PPI) – HSP90AA1
+Tabel 1. Hasil afinitas _molecular docking_ Polyphyllin I (PPI) – HSP90AA1
+
+![](tabel1.png)
 
 Tabel 2. Hasil afinitas molecular docking kontrol P54 – HSP90AA1
 
-![](images/image-003.png)
+![](tabel2.png)
 
 Berdasarkan Tabel 1, konformasi terbaik (Model 1) dari Polyphyllin I menghasilkan nilai _Calculated Affinity_ sebesar -9.181 kcal/mol, sedangkan pada Tabel 2, ligan kontrol bawaan P54 menghasilkan nilai afinitas terbaik sebesar -8.750 kcal/mol. Nilai energi bebas ikatan Polyphyllin I yang jauh lebih negatif dibandingkan ligan kontrol bawaannya mengindikasikan bahwa Polyphyllin I memiliki afinitas pengikatan yang lebih kuat dan mampu membentuk kompleks yang lebih stabil di dalam situs aktif HSP90AA
 
-![](images/ppi2D.png)
+![](ppi2d.png)
 
 Gambar 2. Visualisasi 3D pose konformasi terbaik Polyphyllin I (Model 1) di dalam kantung aktif protein HSP90AA1 menggunakan UCSF ChimeraX.
 
-![ppi2d](ppi yeay2.png/*ppi yeay2.png*)
+
+![](ppi3d.png)
 
 Gambar 3. Diagram interaksi 2D antara ligan Polyphyllin I dengan residu asam amino pada situs aktif HSP90AA1 menggunakan BIOVIA Discovery Studio Visualizer.
 
